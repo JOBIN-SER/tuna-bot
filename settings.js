@@ -16,7 +16,7 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['27634090203'] 
+global.owner = ['917593010965'] 
 global.pemilik = ['27634090203'] //pemilik nomor
 global.premium = ['27634090203'] //premium number
 global.pengguna = 'Drips' //pengguna
