@@ -1,7 +1,7 @@
 {
-  "name": "Zim-bot",
+  "name": "JOBIN-BOT",
   "version": "1.0.0",
-  "description": "Multi device wa bot created by Zim Bot Inc.",
+  "description": "Multi device wa bot created by JOBIN-SER Inc.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
